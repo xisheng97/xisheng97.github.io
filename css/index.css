@@ -1,0 +1,30 @@
+.header{
+    /*background-image: url(../sou/demo.gif);*/
+    background-color: #bfa;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.icon{
+    height: 200px;
+    width: 200px;
+    background-color: #fff;
+    background-image: url(../sou/demo.gif);
+    border-radius: 100px;
+}
+
+.nickname{
+    font-size: 50px;
+    
+}
+
+.description{
+    position: absolute;
+    right: 0px;
+    top:100px
+}
+
+.blog{
+    border: cornflowerblue 1px solid;
+}
